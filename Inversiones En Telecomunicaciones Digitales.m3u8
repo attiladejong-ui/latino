@@ -1,0 +1,367 @@
+#EXTM3U
+#EXTINF:11,3ABN
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0ap/index.m3u8
+#EXTINF:0,A&E
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0or/index.m3u8
+#EXTINF:0,ADRENALINAS
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0k3/index.m3u8
+#EXTINF:0,AMC
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0ag/index.m3u8
+#EXTINF:0,ANIMOTION
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a01e/index.m3u8
+#EXTINF:0,ATRES SERIES
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0p8/index.m3u8
+#EXTINF:0,ATV
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0ca/index.m3u8
+#EXTINF:0,ATV +
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0cg/index.m3u8
+#EXTINF:0,ATV SUR
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0oh/index.m3u8
+#EXTINF:0,AXN
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0oy/index.m3u8
+#EXTINF:0,America TV HD
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0m8/index.m3u8
+#EXTINF:0,Animal Planet
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0gk/index.m3u8
+#EXTINF:0,B&N
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0mr/index.m3u8
+#EXTINF:0,BETHEL RELIGIOSO BACKUP
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0ms/index.m3u8
+#EXTINF:0,Bandamax Latam
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0k2/index.m3u8
+#EXTINF:0,CABLE RED
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0ce/index.m3u8
+#EXTINF:0,CADENA TV
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0pq/index.m3u8
+#EXTINF:0,CGTN
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0fu/index.m3u8
+#EXTINF:0,CLASSIC
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a06y/index.m3u8
+#EXTINF:0,CLASSIC WESTER
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0en/index.m3u8
+#EXTINF:0,COMICPOP
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0er/index.m3u8
+#EXTINF:0,CONECTA2 TV
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0cp/index.m3u8
+#EXTINF:0,Cinecanal HD
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a06t/index.m3u8
+#EXTINF:0,Cinemax
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0os/index.m3u8
+#EXTINF:0,Clover
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0pc/index.m3u8
+#EXTINF:0,DHE HD
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0h1/index.m3u8
+#EXTINF:0,DISNEY CHA
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0ll/index.m3u8
+#EXTINF:0,DISNYE JR
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0lj/index.m3u8
+#EXTINF:0,DMKIDS
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0nk/index.m3u8
+#EXTINF:0,DW Espaæol
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0ix/index.m3u8
+#EXTINF:0,De Película Latam
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0k1/index.m3u8
+#EXTINF:0,De Película Plus 
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0k0/index.m3u8
+#EXTINF:0,Discovery Channel
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0ks/index.m3u8
+#EXTINF:0,Discovery H&H HD
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0me/index.m3u8
+#EXTINF:0,Discovery HD
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0mh/index.m3u8
+#EXTINF:0,Discovery Kids HD
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0kn/index.m3u8
+#EXTINF:0,Discovery Theater HD
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0mf/index.m3u8
+#EXTINF:0,Discovery Turbo
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0kw/index.m3u8
+#EXTINF:0,Distrito Comedia Latam
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0jz/index.m3u8
+#EXTINF:0,E! Entertainment TV
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0o2/index.m3u8
+#EXTINF:0,ENERGEEK
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0ep/index.m3u8
+#EXTINF:0,ENLACE
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a09u/index.m3u8
+#EXTINF:0,ESPN 2
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0pn/index.m3u8
+#EXTINF:0,ESPN 2 HD
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0pk/index.m3u8
+#EXTINF:0,ESPN 2 HD
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0pm/index.m3u8
+#EXTINF:0,ESPN 3 HD
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a05z/index.m3u8
+#EXTINF:0,ESPN 4HD
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a094/index.m3u8
+#EXTINF:0,ESPN 5HD
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0lu/index.m3u8
+#EXTINF:0,ESPN 6 HD
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a08t/index.m3u8
+#EXTINF:0,ESPN 7
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0jk/index.m3u8
+#EXTINF:0,ESPN HD
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0o9/index.m3u8
+#EXTINF:0,EWTN
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0bk/index.m3u8
+#EXTINF:0,EXITOSA
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0fq/index.m3u8
+#EXTINF:0,Eurochannel
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0fv/index.m3u8
+#EXTINF:0,Europa Europa
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0pp/index.m3u8
+#EXTINF:0,FMH FAMILY HD
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a01b/index.m3u8
+#EXTINF:0,FMH KIDS HD
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a01c/index.m3u8
+#EXTINF:0,FMH MOVIES HD
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a01a/index.m3u8
+#EXTINF:0,FX HD
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0dr/index.m3u8
+#EXTINF:0,GLOBAL
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0ek/index.m3u8
+#EXTINF:0,Golden Edge Latam
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0nw/index.m3u8
+#EXTINF:0,Golden Plus
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0jx/index.m3u8
+#EXTINF:0,Golden Premier
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0jw/index.m3u8
+#EXTINF:0,HGTV
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0e0/index.m3u8
+#EXTINF:0,History 2
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0nx/index.m3u8
+#EXTINF:0,History Channel
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0om/index.m3u8
+#EXTINF:0,Hola TV
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0h5/index.m3u8
+#EXTINF:0,JUSTICIA TV - LIMA
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0bz/index.m3u8
+#EXTINF:0,KARABANA URBANO
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0mt/index.m3u8
+#EXTINF:0,KARIBEÑA
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0p2/index.m3u8
+#EXTINF:0,Kanal D Drama
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0pa/index.m3u8
+#EXTINF:0,L1
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a09d/index.m3u8
+#EXTINF:0,L1 MAX
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a07f/index.m3u8
+#EXTINF:0,L1 MAX TRANSCODER
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0o1/index.m3u8
+#EXTINF:0,LATINA NOTICIA - LIMA
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0cf/index.m3u8
+#EXTINF:0,Las Estrellas
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0hd/index.m3u8
+#EXTINF:0,Latina HD
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a068/index.m3u8
+#EXTINF:0,Love Nature
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0g8/index.m3u8
+#EXTINF:0,MILENIAL TV
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0cu/index.m3u8
+#EXTINF:0,MULTIPREMIER
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0nm/index.m3u8
+#EXTINF:0,MUNDO SABOR
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0mu/index.m3u8
+#EXTINF:0,MX CLASSIC
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0mv/index.m3u8
+#EXTINF:0,MX PRIME
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0mw/index.m3u8
+#EXTINF:0,NATIVA
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a02y/index.m3u8
+#EXTINF:0,National Geographic
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0gl/index.m3u8
+#EXTINF:0,Nick HD
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a05t/index.m3u8
+#EXTINF:0,Nuestra Tele
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0pe/index.m3u8
+#EXTINF:0,OLD
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0mx/index.m3u8
+#EXTINF:0,ONT TV
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a07g/index.m3u8
+#EXTINF:0,ONTV TRANSCODER
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0o0/index.m3u8
+#EXTINF:0,PUCALLPA TV
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0po/index.m3u8
+#EXTINF:0,Panamericana
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0c6/index.m3u8
+#EXTINF:0,Paramount HD
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a06v/index.m3u8
+#EXTINF:0,Pasiones
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0o6/index.m3u8
+#EXTINF:0,RAD. NACIONAL
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0ph/index.m3u8
+#EXTINF:0,RADIO FELICIDAD AUDIO
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0ln/index.m3u8
+#EXTINF:0,RADIO KARIBEÑA AUDIO
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0lo/index.m3u8
+#EXTINF:0,RADIO LA UNICA
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0lq/index.m3u8
+#EXTINF:0,RADIO OXIGENO AUDIO
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0lm/index.m3u8
+#EXTINF:0,RADIO RITMO ROMANTICA AUDIO
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0lp/index.m3u8
+#EXTINF:0,RADIO RPP
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a07i/index.m3u8
+#EXTINF:0,RADIO.NAC
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0b0/index.m3u8
+#EXTINF:0,RED ADEVENIR HD
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0ao/index.m3u8
+#EXTINF:0,RT
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a04n/index.m3u8
+#EXTINF:0,Radio Synthpop
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a04v/index.m3u8
+#EXTINF:0,STAR CHANNEL HD
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0h3/index.m3u8
+#EXTINF:0,Sony
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0oz/index.m3u8
+#EXTINF:0,TRIVU TV
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0cs/index.m3u8
+#EXTINF:0,TRUE REAL
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0my/index.m3u8
+#EXTINF:0,TV PERU
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0c9/index.m3u8
+#EXTINF:0,TVPERU2
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0f2/index.m3u8
+#EXTINF:0,Telehit Música Latam
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0jt/index.m3u8
+#EXTINF:0,Telemundo
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0nv/index.m3u8
+#EXTINF:0,Telenovelas
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0m0/index.m3u8
+#EXTINF:0,UNCP TV
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0ox/index.m3u8
+#EXTINF:0,UNIVERSAL CHANNEL HD
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0gv/index.m3u8
+#EXTINF:0,USA
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0ou/index.m3u8
+#EXTINF:0,Univision Lat 
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0jv/index.m3u8
+#EXTINF:0,WILLAX ENCODER
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0p1/index.m3u8
+#EXTINF:0,WILLAX WEB
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0p6/index.m3u8
+#EXTINF:0,Warner Channel HD
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0e1/index.m3u8
+#EXTINF:0,ZKIDS
+#EXTVLCOPT:network-caching=1000
+http://45.173.201.51:4000/play/a0nl/index.m3u8
